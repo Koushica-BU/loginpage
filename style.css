@@ -1,0 +1,52 @@
+body {
+    background-image: url("assets/bg.jpg");
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.wrapper {
+    background-color: rgba(255,255,255);
+    max-width: 300px;
+    border: 1px solid white;
+    margin: 180px auto;
+    color: rgb(66, 0, 57);
+    padding: 10px 20px 30px;
+    border-radius: 10px;
+}
+
+.title {
+    color: #ED6A5A;
+    text-align: center;
+}
+
+.button-wrap {
+    text-align: center;
+}
+
+button{
+    margin-top: 10px;
+    font-size: 15px;
+    border-radius: 3px;
+    border: 1px solid black;
+    padding: 5px 15px;
+}
+
+.field-wrap label{
+    display: block;
+}
+
+.field-wrap {
+    font-size: 20px;
+    padding: 5px;
+}
+
+input {
+    width: 100%;
+    font-size: 1em;
+    border: 1px solid green;
+    box-shadow: 2px;
+    border-radius: 8px;
+    padding: 5px 10px;
+    box-sizing: border-box;
+    margin: 5px 0px 5px;
+}
+
